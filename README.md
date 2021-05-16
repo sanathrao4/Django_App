@@ -1,2 +1,2 @@
-# Django_App_Backend
+# Django_App
 E-Commerce App
